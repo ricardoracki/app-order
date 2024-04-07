@@ -1,4 +1,4 @@
-![App Screenshot](.github/Cover.png)
+<img src=".github/Cover.png" alt="App ScreenShot">
 
 # Order
 
