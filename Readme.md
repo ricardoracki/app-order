@@ -6,11 +6,21 @@ App de lista de compras
 
 ### Iniciando a aplicação
 
+Clone o repositório e instale as dependências
+
+```bash
+  git clone https://github.com/ricardoracki/app-order.git
+  cd app-order
+  npm install
+```
+
 Execute o comando para iniciar o aplicativo
 
 ```bash
 npm start
 ```
+
+Escaneie o QRCode com o app `Expo Go` disponível na sua loja de aplicativos.
 
 ### Stack
 
